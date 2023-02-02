@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E982DB522986818700EAE66B /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E982DB512986818700EAE66B /* CustomCell.swift */; };
 		E985513B298633EF0093E4E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E985513A298633EF0093E4E6 /* AppDelegate.swift */; };
 		E985513D298633EF0093E4E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E985513C298633EF0093E4E6 /* SceneDelegate.swift */; };
 		E985513F298633EF0093E4E6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E985513E298633EF0093E4E6 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E982DB512986818700EAE66B /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 		E9855137298633EF0093E4E6 /* CollectionV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E985513A298633EF0093E4E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E985513C298633EF0093E4E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E985513A298633EF0093E4E6 /* AppDelegate.swift */,
 				E985513C298633EF0093E4E6 /* SceneDelegate.swift */,
 				E985513E298633EF0093E4E6 /* ViewController.swift */,
+				E982DB512986818700EAE66B /* CustomCell.swift */,
 				E9855140298633EF0093E4E6 /* Main.storyboard */,
 				E9855143298633F00093E4E6 /* Assets.xcassets */,
 				E9855145298633F00093E4E6 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				E985513F298633EF0093E4E6 /* ViewController.swift in Sources */,
 				E985513B298633EF0093E4E6 /* AppDelegate.swift in Sources */,
+				E982DB522986818700EAE66B /* CustomCell.swift in Sources */,
 				E985513D298633EF0093E4E6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
